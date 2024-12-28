@@ -1,0 +1,1 @@
+1- Use scanner to fetch user name, age, phone number, and email, then encapsulate the data and portray it in the terminal
