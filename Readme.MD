@@ -1,1 +1,3 @@
-1- Use scanner to fetch user name, age, phone number, and email, then encapsulate the data and portray it in the terminal
+1. Use scanner to fetch user name, age, phone number, and email, then encapsulate the data and portray it in the terminal
+
+2. Use scanner to get the prices of the 5 different cars from the terminal and if the value of the car is equal or above 70000 RM, put them in the matrix of 2*2 which shows the value, "VIP", "2024", "pre-order" and if the value is below the 70000 put them in the matrix of 2*2 which shows the value, "Cheap", "old", "for sale" 
